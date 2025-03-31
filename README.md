@@ -80,6 +80,5 @@ Finally all the functions above are encompassed together into a UI using the Fla
 
 -	When going through a positive scenario as above, once the user provides all the details and the chatbot replies “Thank you for providing all the information. Kindly wait, while I fetch the holidays”, user again needs to enter ‘ok’ in order to fetch the results. 
 -	Chatbot can handle a scenario wherein user provides the requirements that do not match with the dataset and replies appropriately.
--	One particular challenge faced was when I tried to increase the dataset size, the OpenAI timeout error was quite frequent and hence had to use only 4 rows.
 -	Sometimes the bot still times out when trying to fetch the results, therefore please try again should you face any such errors.
 
